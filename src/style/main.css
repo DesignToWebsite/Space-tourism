@@ -269,6 +269,7 @@ nav.navbar .menu_item ul li a span {
 }
 .home #explore {
   margin: auto;
+  cursor: pointer;
 }
 @media screen and (max-width: 991px) {
   .home #explore {

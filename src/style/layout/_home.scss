@@ -38,6 +38,7 @@
     }
     #explore{
         margin: auto;
+        cursor: pointer;
         @include medium-screen{
             margin: .5em auto 5em auto;
         }
